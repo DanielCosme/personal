@@ -1,0 +1,140 @@
+---
+banner:
+  title: I'm Daniel 
+
+social:
+  twitter: ""
+  linkedin: daniel-cosme-ardila
+  github: danielcosme
+  gitlab: ""
+  facebook: ""
+  instagram: ""
+  gmail: cosmedaniel8
+
+about:
+  enable: true
+  content: "Software Developer"
+  button:
+    btnText: Find out more
+    URL: "/about"
+
+skill:
+  enable: true
+  item:
+    - title: JavaScript
+      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+      description: "
+                      <p>Proficient with ES6</p>
+                      <p>Familiar with TypeScript</p>
+                      <ul>
+                          <li><strong>Runtimes:</strong> Node.js</li>
+                          <li><strong>Frameworks/Libraries:</strong> Express, Jest, Pug</li>
+                          <li><strong>Tools:</strong> npm, ESlint</li>
+                      </ul>
+                   "
+    - title: Golang
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172396/go-logo-046185B647-seeklogo.com_rfbzqe.png
+      description: "
+                     <p>Language of choice</p>
+                     <p>Proficient with the std library that deals with: web/http/networking, 
+                          cli, sql</p>
+                     <ul>
+                          <li>Web applications, Restful API's and Networking with golang</li> 
+                          <li><strong>Tools:</strong>gofmt, godocc, gotest</li>
+                     </ul>
+                   "
+    - title: SQL
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172919/postgresql_vk2jhw.png    
+      description: "<p>Query optimization, database migration strategies</p>
+                      <ul>
+                        <li>TODO</li>
+                      </ul>
+                   "
+    - title: Linux
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625173407/Arch-linux-logo_o3nw25.png     
+      description: "
+                     <p>Cli and keyboard-driven workflow enthusiast. Proficient 
+                          with Unix-Like environments, as Linux is my OS of choice</p>
+                     <ul>
+                       <li><strong>Editor:</strong> Neovim</li>
+                       <li><strong>Terminal:</strong> Alacritty</li>
+                       <li><strong>Shell:</strong> Fish</li>
+                     </ul>
+                   "
+    - title: Backend
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1626383082/pngwing.com_gt33gr.png
+      description: "<p>Experience in the full lifecycle software development<p>
+                    <ul>
+                       <li>Authentication/login, secure tokens</li>
+                       <li>Familiar with API design principles and best practices (mainly rest)</li>
+                       <li><strong>CI/CD:</strong> Git/Github, Docker</li> 
+                       <li><strong>Cloud Computing:</strong> AWS, DigitalOcean</li> 
+                    </ul>
+                   "
+
+portfolio:
+  enable: true
+  item:
+    - title: Curious Ape
+      image: https://res.cloudinary.com/dac7ej5e9/image/upload/v1626390146/Screenshot_from_2021-07-15_19.01.24_ijch0e.png
+      description: Automated habit tracking tool.
+      link: "/portfolio/curious-ape"
+      # tools indicates what technologies you used, it uses the icons from https://simpleicons.org/
+      tools:
+        - go
+        - postgresql
+        - postman
+        - digitalocean
+
+    - title: Child's Play
+      image: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625174837/1951522-kiittrqi-v4_y3nu8r.webp
+      description: Tower Defense Game made with Unity.
+      link: "/portfolio/childs-play"
+      # tools indicates what technologies you used, it uses the icons from https://simpleicons.org/
+      tools:
+        - unity
+        - csharp
+        - blender
+
+
+
+
+
+education:
+  enable: false
+  item:
+    - title: BSc Computer Science
+      year: 2018 - Present
+      academy: Durham University
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793268/logos/logos_Durham_fc2sae.svg
+
+
+certifications:
+  enable: false
+  item:
+    - title: Microsoft Azure Fundamentals
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
+      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+
+experience:
+  enable: false
+  item:
+    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
+      title: init.g
+      company: Google
+      duration: November 2019
+
+hackathons:
+  enable: false
+  item:
+    - title: Hack Cambridge 2019
+      description: Climate change simulator
+      image: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793405/stickers/Hack_Cambridge_101_ozoq5d.png
+      url: none
+
+awards:
+  enable: false
+  item:
+    - title: Phase 1 Winner
+      event: GNOME Community Engagement Challenge
+      image: https://res.cloudinary.com/samrobbins/image/upload/v1595701167/CEChallenge-P1Winner2_iyjvyu.png
