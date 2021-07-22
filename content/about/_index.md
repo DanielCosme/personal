@@ -7,6 +7,8 @@ authorImage : "images/about/profile.jpg"
 ---
 **I love computers.**
 
+Looking forward to learning, Typescript & Rust.
+
 Who am I?  
 What I do?  
 WHY I do it?  

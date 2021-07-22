@@ -77,7 +77,7 @@ portfolio:
   item:
     - title: Curious Ape
       image: https://res.cloudinary.com/dac7ej5e9/image/upload/v1626390146/Screenshot_from_2021-07-15_19.01.24_ijch0e.png
-      description: Automated habit tracking tool.
+      description: Automated Habit tracking tool.
       link: "/portfolio/curious-ape"
       # tools indicates what technologies you used, it uses the icons from https://simpleicons.org/
       tools:
