@@ -25,6 +25,9 @@ name = "Grafana"
 url = "https://grafana.com/"
 +++
 ## Motivation
+**The following body of text has no technical content whatsoever, feel free to jump to the technical overview.** 
+
+
 As far as I know we are all apes going through the World trying to understand it
 and ourselves. The better way to understand one-self is to keep track of the things that 
 matter (to us), is all about [tracking from a place of curiosity.](https://jamesclear.com/measuring)
@@ -43,27 +46,29 @@ In a nutshell, my inner ape tells himself that if by the end of the day those 4 
 are done, not matter what (weather, mood, breakup, etc), that was a great day. Have enought 
 "great days" and by the compounding effect, all of a sudden you will be living a great life.
 
+#### Problem
 
 The [bullet journal](https://bulletjournal.com/) is my weapon of choice for Habit tracking.
 Sadly, apart from the visual component, the analog choice leaves 
-very little room for analysis over time. Also, 3 out of 4 habits already being tracked 
-automatically from my daily ussage of certain services (fitbit, toggl, etc) and given that my 
+very little room for analysis over time. Also, 3 out of 4 habits are already being tracked 
+automatically from my daily ussage of certain services (fitbit, toggl, etc); Given that my 
 data from these services is readily available from their public API's, the process of 
-tracking my habits is ripe for **automation**.
+tracking my habits is ripe for **automation**. Moreover, having my data segregated over
+different services I will be giving up on the benefites of: correlations, averages
+and trends, not to mention that I will not own it, not really, unless I control the
+database. 
 
+This project was born for all the above-mentioned reasons, thus it is **not a toy project**, 
+and it is currently live on https://ape.danicos.me for the [grafana](https://grafana.com/) 
+dashboard (temporal front-end) and on https://ape.danicos.me/v1/ for the API.
 
 ![Bullet Journal Habits](https://res.cloudinary.com/dac7ej5e9/image/upload/v1626892767/20210429_095217_blf4zx.jpg)
-
-The homepage provides the basic information about you, including links to social media, skills you have, things you've done and your education. This page makes good use of UIKit grid and cards for organising all the information and ensuring it is responsive to work on mobile devices. The hackathon section of this page uses code from [https://github.com/web-tiki/responsive-grid-of-hexagons](https://github.com/web-tiki/responsive-grid-of-hexagons "https://github.com/web-tiki/responsive-grid-of-hexagons") to ensure that the hexagons tile correctly.
-
-### About
+## Technical overview
 
 ![General Idea Sketch](https://res.cloudinary.com/dac7ej5e9/image/upload/v1626906732/ape-diagrams_l0g6d0.png)
 
-This is the page for a description about you, along with non-technical skills. This uses UIKit grid and cards in a very similar way to the homepage.
 
-### Blog
+## Roadmap
 
 ![Grafana Temporal Frontend](https://res.cloudinary.com/dac7ej5e9/image/upload/v1626390146/Screenshot_from_2021-07-15_19.01.24_ijch0e.png)
 
-If you want to have a blog, this page will serve that purpose. I may end up changing this to a column view rather than a column view in the future, but for the present I think it looks fine.
