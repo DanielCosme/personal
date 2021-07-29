@@ -19,7 +19,7 @@ Learning.
 
 Computers, programming, linux.
 
-Servers (backend apps), network/cloud infrastructure, distributed systems.
+Servers , cloud infrastructure, distributed systems.
 
 Looking underneath abstractions before embracing them. In other words: understanding the
 underlying problem before accepting the solution

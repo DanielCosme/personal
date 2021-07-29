@@ -35,26 +35,37 @@ skill:
     - title: Golang
       logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172396/go-logo-046185B647-seeklogo.com_rfbzqe.png
       description: "
-                     <p>Language of choice</p>
-                     <p>Proficient with the std library that deals with: web/http/networking, 
-                          cli, sql</p>
+                     <p>Favorite programming language</p>
+                     <h4>Proficient with</h4>
                      <ul>
-                          <li>Web applications, Restful API's and Networking with golang</li> 
-                          <li><strong>Tools:</strong>gofmt, godocc, gotest</li>
+                       <li>Building backend applications with Go</li>
+                       <li>Developing robust RESTful API's</li>
+                     </ul>
+                     <h4>Familiar with</h4>
+                     <ul>
+                       <li>Networking with Go TCP, UDP, IPC (Unix sockets) and the conn interface.</li>
                      </ul>
                    "
-    - title: SQL
+    - title: Databases
       logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172919/postgresql_vk2jhw.png    
-      description: "<p>Query optimization, database migration strategies</p>
-                      <ul>
-                        <li>TODO</li>
-                      </ul>
+      description: "
+                     <h4>Proficient with</h4>
+                     <ul>
+                       <li>Postgres</li>
+                       <li>SQL</li>
+                     </ul>
+                     <h4>Familiar with</h4>
+                     <ul>
+                       <li>MySQL/mariadb</li>
+                       <li>SQLite</li>
+                       <li><strong>Non-sql:</strong> MongoDB, Redis</li>
+                     </ul>
                    "
     - title: Linux
       logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625173407/Arch-linux-logo_o3nw25.png     
       description: "
-                     <p>Cli and keyboard-driven workflow enthusiast. Proficient 
-                          with Unix-Like environments, as Linux is my OS of choice</p>
+                     <p>Cli and keyboard-driven workflow enthusiast.</p> <p>Proficient 
+                          with Unix-like environments, development environment of choice.</p>
                      <ul>
                        <li><strong>Editor:</strong> Neovim</li>
                        <li><strong>Terminal:</strong> Alacritty</li>
@@ -66,9 +77,10 @@ skill:
       description: "<p>Experience in the full lifecycle software development<p>
                     <ul>
                        <li>Authentication/login, secure tokens</li>
-                       <li>Familiar with API design principles and best practices (mainly rest)</li>
+                       <li>Familiar with API design principles and best practices (mainly REST)</li>
                        <li><strong>CI/CD:</strong> Git/Github, Docker</li> 
                        <li><strong>Cloud Computing:</strong> AWS, DigitalOcean</li> 
+                       <li><strong>Familiar languages:</strong> C/C++, C#, Java</li> 
                     </ul>
                    "
 
