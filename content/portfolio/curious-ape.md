@@ -2,7 +2,7 @@
 categories = ["web-dev", "backend"]
 coders = []
 date = 2021-06-07
-description = "Automated habit tracking and self-data aggregation API."
+description = "Automated habit tracking."
 github = ["https://github.com/DanielCosme/curious-ape"]
 image = "https://res.cloudinary.com/dac7ej5e9/image/upload/v1626395476/LogoMakr-72QbRw_vufcoc.png"
 title = "Curious Ape"
@@ -53,7 +53,7 @@ Sadly, apart from the visual component, the analog choice leaves
 very little room for analysis over time. Also, 3 out of 4 habits are already being tracked 
 automatically from my daily usage of certain services (fitbit, toggl, etc); Given that my 
 data from these services is readily available from their public API's, the process of 
-tracking my habits is ripe for **automation**. Moreover, having my data segregated over
+tracking my habits is ripe for **automation**. Moreover, by having my data segregated over
 different services I will be giving up on the benefits of: correlations, averages
 and trends, not to mention that I will not own the data, not really, unless I control the
 database. 
@@ -134,6 +134,10 @@ written in Golang and a Grafana dashboard to visualize my habits in a calendar-b
 - **Shell:** Fish
 
 ## Roadmap
+- **CI strategy**
+    - Unit tests to prevent regression
+    - Integration tests
+    - End to end tests
 
 - **Automated data collection for all my services**
 
@@ -157,7 +161,3 @@ written in Golang and a Grafana dashboard to visualize my habits in a calendar-b
     - Web
     - Mobile
     - More robust CLI
-- **CI strategy**
-    - Unit test to prevent regression
-    - Integration tests
-    - End to end tests

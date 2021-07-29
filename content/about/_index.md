@@ -12,14 +12,11 @@ Socialized introvert.
 
 Currently Looking for a job as a software engineer.
 
-
 ### What I like
 
-Learning.
+Computers, programming, Unix.
 
-Computers, programming, linux.
-
-Servers , cloud infrastructure, distributed systems.
+Backend applications, cloud infrastructure, distributed systems.
 
 Looking underneath abstractions before embracing them. In other words: understanding the
 underlying problem before accepting the solution

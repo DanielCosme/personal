@@ -74,10 +74,11 @@ skill:
                    "
     - title: Backend
       logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1626383082/pngwing.com_gt33gr.png
-      description: "<p>Experience in the full lifecycle software development<p>
+      description: "<p>Experience in the full lifecycle software of development<p>
                     <ul>
                        <li>Authentication/login, secure tokens</li>
                        <li>Familiar with API design principles and best practices (mainly REST)</li>
+                       <li><strong>Servers:</strong> Nginx, Caddy</li> 
                        <li><strong>CI/CD:</strong> Git/Github, Docker</li> 
                        <li><strong>Cloud Computing:</strong> AWS, DigitalOcean</li> 
                        <li><strong>Familiar languages:</strong> C/C++, C#, Java</li> 
