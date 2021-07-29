@@ -10,15 +10,15 @@ type = "post"
 [[tech]]
 logo = "https://res.cloudinary.com/dac7ej5e9/image/upload/v1627571401/unity-69-logo-png-transparent_wqrmfq.png"
 name = "Unity"
-url = "https://golang.org/"
+url = "https://unity.com/"
 [[tech]]
 logo = "https://res.cloudinary.com/dac7ej5e9/image/upload/v1627571933/csharp_p4hudg.png"
 name = "C#"
-url = "https://www.postman.com/"
+url = "https://docs.microsoft.com/en-us/dotnet/csharp/"
 [[tech]]
 logo = "https://res.cloudinary.com/dac7ej5e9/image/upload/v1627571839/blender_y7gz7l.png"
 name = "Blender"
-url = "https://www.postgresql.org/"
+url = "https://www.blender.org/"
 
 +++
 
