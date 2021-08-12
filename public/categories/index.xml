@@ -2,9 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Daniel Cosme</title>
-    <link>http://example.org/categories/</link>
+    <link>https://danicos.me/categories/</link>
     <description>Recent content in Categories on Daniel Cosme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 -0400</lastBuildDate><atom:link href="https://danicos.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>game-dev</title>
+      <link>https://danicos.me/categories/game-dev/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://danicos.me/categories/game-dev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>backend</title>
+      <link>https://danicos.me/categories/backend/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://danicos.me/categories/backend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>web-dev</title>
+      <link>https://danicos.me/categories/web-dev/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://danicos.me/categories/web-dev/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

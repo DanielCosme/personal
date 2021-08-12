@@ -1,10 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Daniel Cosme</title>
-    <link>http://example.org/</link>
-    <description>Recent content on Daniel Cosme</description>
+    <title>Daniel Cosme&#39;s Webpage on Daniel Cosme</title>
+    <link>https://danicos.me/</link>
+    <description>Recent content in Daniel Cosme&#39;s Webpage on Daniel Cosme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Oct 2017 15:26:15 +0000</lastBuildDate><atom:link href="https://danicos.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Child&#39;s Play</title>
+      <link>https://danicos.me/portfolio/child-play/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://danicos.me/portfolio/child-play/</guid>
+      <description>You can play it at Gamejolt (start from level 2)
+You are a child playing in his backyard, you have to protect your cheerios from ants. The game was a team project during my 4th session at College LaSalle in their video game programming specialization.</description>
+    </item>
+    
+    <item>
+      <title>Curious Ape</title>
+      <link>https://danicos.me/portfolio/curious-ape/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 -0400</pubDate>
+      
+      <guid>https://danicos.me/portfolio/curious-ape/</guid>
+      <description>Motivation The following body of text has no technical content whatsoever, feel free to jump to the technical overview.
+As far as I know we are all apes going through the World trying to understand it and ourselves. The better way to understand one-self is to keep track of the things that matter (to us), is all about tracking from a place of curiosity. I would like to keep track of certain core Habits that (by my own definition) would signal whether I am living a &amp;ldquo;good life&amp;rdquo;, independent of my occupation, where I live, or the people around me.</description>
+    </item>
+    
+    <item>
+      <title>Making a new Website</title>
+      <link>https://danicos.me/blog/first_blog/</link>
+      <pubDate>Tue, 31 Dec 2019 12:14:34 +0600</pubDate>
+      
+      <guid>https://danicos.me/blog/first_blog/</guid>
+      <description>Ti body goes here</description>
+    </item>
+    
   </channel>
 </rss>

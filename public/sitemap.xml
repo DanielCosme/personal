@@ -2,10 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://danicos.me/categories/</loc>
+    <lastmod>2021-06-16T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://danicos.me/portfolio/child-play/</loc>
+    <lastmod>2021-06-16T00:00:00-04:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://danicos.me/categories/game-dev/</loc>
+    <lastmod>2021-06-16T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/categories/backend/</loc>
+    <lastmod>2021-06-07T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/portfolio/curious-ape/</loc>
+    <lastmod>2021-06-07T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/categories/web-dev/</loc>
+    <lastmod>2021-06-07T00:00:00-04:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/blog/first_blog/</loc>
+    <lastmod>2019-12-31T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/about/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/blog/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/portfolio/</loc>
+    <lastmod>2019-05-12T12:14:34+06:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/</loc>
+    <lastmod>2019-10-26T15:26:15+00:00</lastmod>
+  </url><url>
+    <loc>https://danicos.me/tags/</loc>
   </url>
 </urlset>

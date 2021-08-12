@@ -32,7 +32,7 @@ skill:
                           <li><strong>Tools:</strong> npm, ESlint</li>
                       </ul>
                    "
-    - title: Golang
+    - title: Go
       logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172396/go-logo-046185B647-seeklogo.com_rfbzqe.png
       description: "
                      <p>Favorite programming language</p>
@@ -102,7 +102,7 @@ portfolio:
     - title: Child's Play
       image: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625174837/1951522-kiittrqi-v4_y3nu8r.webp
       description: Tower Defense Game made with Unity.
-      link: "/portfolio/childs-play"
+      link: "/portfolio/child-play"
       # tools indicates what technologies you used, it uses the icons from https://simpleicons.org/
       tools:
         - unity

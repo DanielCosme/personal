@@ -10,7 +10,7 @@ Hi! I'm Daniel Cosme.
 
 Socialized introvert.
 
-Currently Looking for a job as a software engineer.
+Currently working as a backend developer at [Archie](https://archieapp.co/)
 
 ### What I like
 
@@ -39,7 +39,7 @@ Straightforward, and honest communication.
 
 Rust, Typescript.
 
-Systems/low-level programming, frontend development.
+Systems/low-level programming, fundamentals of frontend development.
 
 Distributed systems at implementation level.
 
