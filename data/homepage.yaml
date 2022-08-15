@@ -13,7 +13,7 @@ social:
 
 about:
   enable: true
-  content: "Software Developer"
+  content: "Software Engineer"
   button:
     btnText: Find out more
     URL: "/about"
@@ -21,6 +21,47 @@ about:
 skill:
   enable: true
   item:
+    - title: Go
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172396/go-logo-046185B647-seeklogo.com_rfbzqe.png
+      description: "
+                     <p>Programming language of choice</p>
+                     <h4>Proficient with</h4>
+                     <ul>
+                       <li>Building, mataining and debugging performant RESTfull services</li>
+                       <li>Designing and implementing integrations with 3rd party public API's</li>
+                       <li>Developing from scratch SDKs that consume public API's</li>
+                       <li>Bulding modules/libraries to be shared amongst several services</li>
+                       <li>Building CLI's</li>
+                     </ul>
+                     <h4>Familiar with</h4>
+                     <ul>
+                       <li>Networking with Go TCP, UDP, IPC (Unix sockets) and the conn interface.</li>
+                     </ul>
+                   "
+    - title: Backend
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1626383082/pngwing.com_gt33gr.png
+      description: "<p>Experience in the full lifecycle software of development<p>
+                    <ul>
+                       <li>Authentication/login, secure tokens</li>
+                       <li>Proficient with API design principles and best practices (mainly REST)</li>
+                       <li><strong>Servers:</strong> Nginx, Caddy</li> 
+                       <li><strong>CI/CD:</strong> Git/Github, Docker</li> 
+                       <li><strong>Cloud Computing:</strong> AWS, DigitalOcean, GCP</li> 
+                       <li><strong>Familiar languages:</strong>Javascript, C#, Java</li> 
+                    </ul>
+                   "
+    - title: Linux
+      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625173407/Arch-linux-logo_o3nw25.png     
+      description: "
+                     <p>Cli and keyboard-driven workflow enthusiast.</p> <p>Proficient 
+                          with Unix-like environments, development environment of choice.</p>
+                     <ul>
+                       <li><strong>IDE:</strong> Jetbrains: Goland</li>
+                       <li><strong>Editor:</strong> Neovim</li>
+                       <li><strong>Terminal:</strong> Kitty</li>
+                       <li><strong>Shell:</strong> Fish</li>
+                     </ul>
+                   "
     - title: JavaScript
       logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
       description: "
@@ -31,20 +72,6 @@ skill:
                           <li><strong>Frameworks/Libraries:</strong> Express, Jest, Pug</li>
                           <li><strong>Tools:</strong> npm, ESlint</li>
                       </ul>
-                   "
-    - title: Go
-      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172396/go-logo-046185B647-seeklogo.com_rfbzqe.png
-      description: "
-                     <p>Favorite programming language</p>
-                     <h4>Proficient with</h4>
-                     <ul>
-                       <li>Building backend applications with Go</li>
-                       <li>Developing robust RESTful API's</li>
-                     </ul>
-                     <h4>Familiar with</h4>
-                     <ul>
-                       <li>Networking with Go TCP, UDP, IPC (Unix sockets) and the conn interface.</li>
-                     </ul>
                    "
     - title: Databases
       logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172919/postgresql_vk2jhw.png    
@@ -60,29 +87,6 @@ skill:
                        <li>SQLite</li>
                        <li><strong>Non-sql:</strong> MongoDB, Redis</li>
                      </ul>
-                   "
-    - title: Linux
-      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1625173407/Arch-linux-logo_o3nw25.png     
-      description: "
-                     <p>Cli and keyboard-driven workflow enthusiast.</p> <p>Proficient 
-                          with Unix-like environments, development environment of choice.</p>
-                     <ul>
-                       <li><strong>Editor:</strong> Neovim</li>
-                       <li><strong>Terminal:</strong> Alacritty</li>
-                       <li><strong>Shell:</strong> Fish</li>
-                     </ul>
-                   "
-    - title: Backend
-      logo: https://res.cloudinary.com/dac7ej5e9/image/upload/v1626383082/pngwing.com_gt33gr.png
-      description: "<p>Experience in the full lifecycle software of development<p>
-                    <ul>
-                       <li>Authentication/login, secure tokens</li>
-                       <li>Familiar with API design principles and best practices (mainly REST)</li>
-                       <li><strong>Servers:</strong> Nginx, Caddy</li> 
-                       <li><strong>CI/CD:</strong> Git/Github, Docker</li> 
-                       <li><strong>Cloud Computing:</strong> AWS, DigitalOcean</li> 
-                       <li><strong>Familiar languages:</strong> C/C++, C#, Java</li> 
-                    </ul>
                    "
 
 portfolio:
@@ -108,9 +112,6 @@ portfolio:
         - unity
         - csharp
         - blender
-
-
-
 
 
 education:

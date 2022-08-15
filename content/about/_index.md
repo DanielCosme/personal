@@ -10,13 +10,15 @@ Hi! I'm Daniel Cosme.
 
 Socialized introvert.
 
-Currently working as a backend developer at [Archie](https://archieapp.co/)
+Currently looking for work oportunities.
+
+Previously worked as a backend developer at [Archie](https://archieapp.co/)
 
 ### What I like
 
-Computers, programming, Unix.
+Computers, Programming, Unix.
 
-Backend applications, cloud infrastructure, distributed systems.
+Backend developent, Cloud infrastructure, [Platform engineering](https://platformengineering.org/blog/what-is-platform-engineering).
 
 Looking underneath abstractions before embracing them. In other words: understanding the
 underlying problem before accepting the solution
@@ -37,10 +39,8 @@ Straightforward, and honest communication.
 
 ### What I'm looking forward to learn
 
-Rust, Typescript.
+[C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Platform-as-a-product](https://www.hashicorp.com/cloud-operating-model) Practices.
 
-Systems/low-level programming, fundamentals of frontend development.
-
-Distributed systems at implementation level.
+Systems/low-level programming, Operating systems (unix), Distributed systems.
 
 Cooking, drawing.

@@ -119,18 +119,18 @@ written in Golang and a Grafana dashboard to visualize my habits in a calendar-b
 ![Grafana Temporal Frontend](https://res.cloudinary.com/dac7ej5e9/image/upload/v1626390146/Screenshot_from_2021-07-15_19.01.24_ijch0e.png)
 
 ### Tech Stack
-- **Programming language:** Golang 1.16
-- **Persistence:** Postgres
+- **Programming language:** Golang 1.19
+- **Persistence:** Sqlite
 - **Production:** Digital Ocean, Droplet (Ubuntu VPS)
 - **Api testing:** Postman
 - **Source control:** Git
 - **Dashboard:** Grafana
 - **Reverse Proxy:** [Caddy](https://caddyserver.com/)
 - **Continuous deployment strategy:** [Makefile](https://github.com/DanielCosme/curious-ape/blob/main/Makefile)
-- **Immutable deployment strategy:** [Shell Script](https://github.com/DanielCosme/curious-ape/blob/main/remote/setup/01.sh)
+- **Immutable deployment strategy:** [Shell Script](https://github.com/DanielCosme/curious-ape/tree/main/production/setup)
 - **Schema Migration strategy:** [Migrate](https://github.com/golang-migrate/migrate)
-- **Development environment:** Arch-linux
-- **Editor:** Neovim
+- **Development environment:** Linux
+- **Editor:** Jetbrains: Goland
 - **Shell:** Fish
 
 ## Roadmap

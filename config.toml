@@ -47,7 +47,7 @@ theme = "hugo-developer-portfolio"
 [params]
 home = "Home"
 # Meta data
-description = "The website of Daniel Cosme, Software Engineer in the making"
+description = "The website of Daniel Cosme, Software Engineer"
 author = "Daniel Cosme"
 
   [params.contact]
