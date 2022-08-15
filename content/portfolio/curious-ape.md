@@ -126,6 +126,7 @@ written in Golang and a Grafana dashboard to visualize my habits in a calendar-b
 - **Source control:** Git
 - **Dashboard:** Grafana
 - **Reverse Proxy:** [Caddy](https://caddyserver.com/)
+- **API Gateway and TLS Termination** [Caddy](https://caddyserver.com/)
 - **Continuous deployment strategy:** [Makefile](https://github.com/DanielCosme/curious-ape/blob/main/Makefile)
 - **Immutable deployment strategy:** [Shell Script](https://github.com/DanielCosme/curious-ape/tree/main/production/setup)
 - **Schema Migration strategy:** [Migrate](https://github.com/golang-migrate/migrate)
