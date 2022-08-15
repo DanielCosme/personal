@@ -10,7 +10,7 @@ Hi! I'm Daniel Cosme.
 
 Socialized introvert.
 
-Currently studying for the AWS Solutions Arquitect Certificate and looking for work oportunities.
+Currently studying for the [AWS Solutions Arquitect Certificate](https://aws.amazon.com/certification/certified-solutions-architect-associate/) and looking for work oportunities.
 
 Previously worked as a backend developer at [Archie](https://archieapp.co/)
 
