@@ -18,8 +18,6 @@ Previously worked as a backend developer at [Archie](https://archieapp.co/)
 
 Computers, Programming, Unix.
 
-Backend developent, Cloud infrastructure, [Platform engineering](https://platformengineering.org/blog/what-is-platform-engineering).
-
 Looking underneath abstractions before embracing them. In other words: understanding the
 underlying problem before accepting the solution
 
@@ -39,8 +37,6 @@ Straightforward, and honest communication.
 
 ### What I'm looking forward to learn
 
-[C](https://en.wikipedia.org/wiki/C_(programming_language)) and [Platform-as-a-product](https://www.hashicorp.com/cloud-operating-model) Practices.
-
-Systems/low-level programming, Operating systems (unix), Distributed systems.
+Full Stack Development. 
 
 Cooking, drawing.
