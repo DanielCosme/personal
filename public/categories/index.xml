@@ -4,35 +4,30 @@
     <title>Categories on Daniel Cosme</title>
     <link>https://danicos.me/categories/</link>
     <description>Recent content in Categories on Daniel Cosme</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://danicos.me/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://danicos.me/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>game-dev</title>
+      <title>Game-Dev</title>
       <link>https://danicos.me/categories/game-dev/</link>
       <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danicos.me/categories/game-dev/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>backend</title>
+      <title>Backend</title>
       <link>https://danicos.me/categories/backend/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danicos.me/categories/backend/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>web-dev</title>
+      <title>Web-Dev</title>
       <link>https://danicos.me/categories/web-dev/</link>
       <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://danicos.me/categories/web-dev/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

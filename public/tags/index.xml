@@ -4,7 +4,8 @@
     <title>Tags on Daniel Cosme</title>
     <link>https://danicos.me/tags/</link>
     <description>Recent content in Tags on Daniel Cosme</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://danicos.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="https://danicos.me/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

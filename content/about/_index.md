@@ -10,9 +10,7 @@ Hi! I'm Daniel Cosme.
 
 Socialized introvert.
 
-Currently looking for work oportunities.
-
-Previously worked as a backend developer at [Archie](https://archieapp.co/)
+Currently working as a backend Developer.
 
 ### What I like
 
@@ -37,6 +35,4 @@ Straightforward, and honest communication.
 
 ### What I'm looking forward to learn
 
-Full Stack Development. 
-
-Cooking, drawing.
+Systems Programming.
