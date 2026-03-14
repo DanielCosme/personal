@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web-Dev on Daniel Cosme</title>
+    <link>https://danicos.me/categories/web-dev/</link>
+    <description>Recent content in Web-Dev on Daniel Cosme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://danicos.me/categories/web-dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curious Ape</title>
+      <link>https://danicos.me/portfolio/curious-ape/</link>
+      <pubDate>Mon, 07 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://danicos.me/portfolio/curious-ape/</guid>
+      <description>&lt;h2 id=&#34;motivation&#34;&gt;Motivation&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;The following body of text has no technical content whatsoever, feel free to jump to the technical overview.&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;p&gt;As far as I know we are all apes going through the World trying to understand it&#xA;and ourselves. The better way to understand one-self is to keep track of the things that&#xA;matter (to us), is all about &lt;a href=&#34;https://jamesclear.com/measuring&#34;&gt;tracking from a place of curiosity.&lt;/a&gt;&#xA;I would like to keep track of certain core Habits that (by my own definition)&#xA;would signal whether I am living a &amp;ldquo;good life&amp;rdquo;, independent of my occupation, where I live,&#xA;or the people around me. A good life is defined by what we do in our days, then, what we do&#xA;every day is of absolute importance. My Habits of choice are somewhat cliche, hard to&#xA;achieve consistently but completely under my control (most of the time):&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

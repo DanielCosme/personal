@@ -1,0 +1,453 @@
+<!DOCTYPE html>
+<style>
+    html {
+        height: 100vh;
+    }
+    body {
+        min-height: 100vh;
+        display: grid;
+        grid-template-rows: 1fr auto;
+    }
+    .footer {
+        grid-row-start: 2;
+        grid-row-end: 3;
+    }
+</style>
+<html lang="en-us"><head>
+  <meta charset="utf-8">
+  <title>Daniel Cosme</title>
+
+  <!-- mobile responsive meta -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta name="description" property="og:description" content="Automated habit tracking.">
+  <meta name="image" property="og:image" content="/">
+  <meta name="author" content="Daniel Cosme">
+  <meta name="generator" content="Hugo 0.157.0">
+
+  <!-- plugins -->
+  
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css ">
+  
+
+  <!-- Main Stylesheet -->
+  
+  <link rel="stylesheet" href="/css/style.min.css" integrity="" media="screen">
+  
+  <link rel="stylesheet" href="/css/syntax.min.css" integrity="" media="screen">
+
+  <script src="https://cdn.jsdelivr.net/npm/mailgo@0.9.14/dist/mailgo.min.js" defer></script>
+
+  <!--Favicon-->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="manifest" href="/site.webmanifest">
+
+</head>
+<body class="portfolio">
+    <div class="wrapper"><div uk-sticky="sel-target: .uk-navbar-container; cls-active: uk-navbar-sticky; bottom: #transparent-sticky-navbar">
+    <nav class="uk-navbar-container uk-margin" uk-navbar="mode: click;" style="padding-right: 3rem">
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@s">
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/"> Home
+                        </a></li>
+
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li><a style="font-size: 18px; text-transform: none" href="/about">About</a></li>
+                
+                
+                
+                
+                
+                
+                
+                
+                
+                <li class="uk-active"><a style="font-size: 18px; text-transform:none"
+                        href="/portfolio">Projects</a></li>
+                
+                
+            </ul>
+
+            <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
+
+        </div>
+    </nav>
+</div>
+
+<div id="sidenav" uk-offcanvas="overlay: true">
+    <div class="uk-offcanvas-bar uk-flex uk-flex-column">
+
+        <ul class="uk-nav uk-nav-primary uk-nav-center uk-margin-auto-vertical">
+            
+            <li><a style="font-size: 18px" href="https://danicos.me/"> Home </a></li>
+
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li><a style="font-size: 18px" href="/about">About</a></li>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            <li class="uk-active"><a style="font-size: 18px" href="/portfolio">Projects</a></li>
+            
+            
+        </ul>
+
+    </div>
+</div>
+
+
+
+
+<style>
+  p {
+    margin: 0
+  }
+
+  .people-wrap {
+    display: inline-flex;
+    margin-top: 10px;
+  }
+
+  .people-image {
+    display: block;
+    border-radius: 50%;
+     
+  }
+
+  .people {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  .name {
+    margin: auto;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #000;
+    font-family: Roboto, sans-serif;
+    line-height: 1.2;
+    margin-top: 2rem;
+  }
+
+  .content img {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:30px;
+  }
+
+  p { margin-bottom: 1em; }
+
+  body p:last-child { margin-bottom: 0em; }
+
+  img.skills{
+    height: 80px;
+  }
+
+  @media only screen and (min-width: 960px) {
+    .content img{max-width:60vw; max-height:60vh}
+
+  .content img{
+      max-width:60vw;
+      max-height:60vh
+  }
+  }
+  .content{
+      width: 90vw;
+      max-width: 1200px
+  }
+
+  table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+</style>
+
+
+<section>
+  <div class="uk-container uk-margin-large-bottom uk-margin-medium-top">
+    <h1 class="uk-text-center uk-heading-medium">Curious Ape</h1>
+    <p class="uk-text-center uk-text-lead">Automated habit tracking.</p>
+    <p class="uk-text-center">Published on Jun 07, 2021</p>
+    <p class="uk-text-center">Reading time: 4 minutes.</p>
+    
+
+    <div class="uk-child-width-1-4@m uk-child-width-1-2@s uk-text-center uk-flex-center uk-grid-large uk-margin-small-top" uk-grid>
+      
+
+    
+
+
+
+      <div>
+        
+        <a class="uk-button uk-button-default" href="https://github.com/DanielCosme/curious-ape"> <span uk-icon="icon: github"></span>
+          Github</a>
+        
+      </div>
+    </div>
+    
+
+    <hr class="full-width">
+    
+    
+    <h2 class="uk-text-center uk-heading-small">Built with</h2>
+
+    <section >
+      <div class="uk-container">
+
+        <div class="uk-child-width-1-6@l uk-child-width-1-3@m uk-child-width-1-3@s uk-child-width-1-2 uk-text-center uk-flex-center"
+             uk-grid>
+          
+          <div class="imagemargin">
+            <a href="https://golang.org/">
+            <img class="contain skills" src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172396/go-logo-046185B647-seeklogo.com_rfbzqe.png" alt="Golang" loading="lazy" style="cursor: pointer">
+            </a>
+          </div>
+          
+          <div class="imagemargin">
+            <a href="https://www.postgresql.org/">
+            <img class="contain skills" src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1625172919/postgresql_vk2jhw.png" alt="Postgres" loading="lazy" style="cursor: pointer">
+            </a>
+          </div>
+          
+          <div class="imagemargin">
+            <a href="https://www.postman.com/">
+            <img class="contain skills" src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1626395975/postman-logo-F43375A2EB-seeklogo.com_urs6t4.png" alt="Postman" loading="lazy" style="cursor: pointer">
+            </a>
+          </div>
+          
+          <div class="imagemargin">
+            <a href="https://grafana.com/">
+            <img class="contain skills" src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1626397373/grafana_icon_130916_zyqeyx.png" alt="Grafana" loading="lazy" style="cursor: pointer">
+            </a>
+          </div>
+          
+        </div>
+
+      </div>
+
+    </section>
+
+    <hr class="full-width">
+    
+    
+
+    <div class="content">
+      <h2 id="motivation">Motivation</h2>
+<p><strong>The following body of text has no technical content whatsoever, feel free to jump to the technical overview.</strong></p>
+<p>As far as I know we are all apes going through the World trying to understand it
+and ourselves. The better way to understand one-self is to keep track of the things that
+matter (to us), is all about <a href="https://jamesclear.com/measuring">tracking from a place of curiosity.</a>
+I would like to keep track of certain core Habits that (by my own definition)
+would signal whether I am living a &ldquo;good life&rdquo;, independent of my occupation, where I live,
+or the people around me. A good life is defined by what we do in our days, then, what we do
+every day is of absolute importance. My Habits of choice are somewhat cliche, hard to
+achieve consistently but completely under my control (most of the time):</p>
+<ul>
+<li>Wake up before 6am.</li>
+<li>Do some sort of physical activity (every day), a measure that I have not been completely sedentary during the day.</li>
+<li>At least 5 hours of productive/deep work or any activity with a degree of responsibility.</li>
+<li>Eat clean (No sugar, No refined carbs).</li>
+</ul>
+<p>In a nutshell, my inner ape tells himself that if by the end of the day those 4 key Habits
+are done, not matter what (weather, mood, breakup, etc), that was a great day. Have enough
+&ldquo;great days&rdquo; and by the compounding effect, all of a sudden you will be living a great life.</p>
+<h4 id="problem">Problem</h4>
+<p>The <a href="https://bulletjournal.com/">bullet journal</a> is my weapon of choice for Habit tracking.
+Sadly, apart from the visual component, the analog choice leaves
+very little room for analysis over time. Also, 3 out of 4 habits are already being tracked
+automatically from my daily usage of certain services (fitbit, toggl, etc); Given that my
+data from these services is readily available from their public API&rsquo;s, the process of
+tracking my habits is ripe for <strong>automation</strong>. Moreover, by having my data segregated over
+different services I will be giving up on the benefits of: correlations, averages
+and trends, not to mention that I will not own the data, not really, unless I control the
+database.</p>
+<p>Inspired by <a href="https://exist.io">Exist</a>, this project was born for all the above-mentioned reasons, thus it is not a toy project
+and I hope to grow it over time as a personal life-companion tool.
+The application is currently live on <a href="https://ape.danicos.me">https://ape.danicos.me</a> for the <a href="https://grafana.com/">grafana</a>
+dashboard (temporal front-end) and on <a href="https://ape.danicos.me/v1/">https://ape.danicos.me/v1/</a> for the API.</p>
+<p><img src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1626892767/20210429_095217_blf4zx.jpg" alt="Bullet Journal Habits"></p>
+<h2 id="technical-overview">Technical overview</h2>
+<p>The Curious Ape project is mainly a <strong>Self-data aggregation tool</strong> whose
+<a href="https://en.wikipedia.org/wiki/Minimum_viable_product">MVP</a> is centered around automated
+habit tracking. At its heart the application is intended to be an automated data harvesting
+tool which will gather all possible data of the user that is scattered across its many
+services around the web. Down the road, the application is meant to have a personalized dashboard
+(frontend) to bring all of the user’s data into one easy to visualize place, as well as an
+aggregator service (algorithm) that will analyze and correlate all data points in order to
+generate insights about the user’s behaviour.</p>
+<p>Currently, only data collection related to the 4 core Habits is implemented.
+Once deployed, the Habits API is scheduled to pull my self-data at the end of the day from
+3rd party API&rsquo;s. Once in the system the data is mapped to my own data models of <strong>deep work</strong>
+(tasks, projects, dates), <strong>fitness</strong> (duration, start/end, exercises, progresive overload, steps) and
+<strong>Sleep</strong> (duration, quality, wake-up time); The schemas live in the project&rsquo;s
+<a href="https://github.com/DanielCosme/curious-ape/tree/main/migrations">migration files</a>.
+<strong>Food</strong> habits are tracked manually via a cli client:</p>
+<p><img src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1627427191/Screenshot_from_2021-07-27_19.04.29_hrpkxq.png" alt="Ape Cli"></p>
+<p>Once the data is mapped to the Curious Ape models, some checks run to establish the actuality (or not)
+of the Habits. With the habits already checked, a score between 0 and 4 is given to the day
+given the presence of the habits, 0 will be no habits where done that day and 4 will be all
+habits where done. The Habits API effectively applies a map/reduce automated operation on the data coming from
+the 3rd party API&rsquo;s.</p>
+<p><strong>Scores:</strong></p>
+<ul>
+<li>0 = abysmal day</li>
+<li>1 = bad day</li>
+<li>2 = mediocre day</li>
+<li>3 = good day</li>
+<li>4 = great day</li>
+</ul>
+<h3 id="habits-api">Habits API</h3>
+<p>The backend concerns itself mainly with automated data collection (inputs), however there is a thin
+RESTful API layer that exists to respond with my (normalized) data collected from all over the internet,
+as well as data derived from the analytics algorithm (coming soon).</p>
+<p><img src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1626906732/ape-diagrams_l0g6d0.png" alt="General Idea Sketch"></p>
+<h3 id="clients">Clients</h3>
+<p>A proper Web client is on the works for data visualization purposes. For now I have a
+lightweight <a href="https://github.com/DanielCosme/curious-ape/tree/main/cmd/cli">Cli client</a>
+written in Golang and a Grafana dashboard to visualize my habits in a calendar-based heatmap.</p>
+<p><img src="https://res.cloudinary.com/dac7ej5e9/image/upload/v1626390146/Screenshot_from_2021-07-15_19.01.24_ijch0e.png" alt="Grafana Temporal Frontend"></p>
+<h3 id="tech-stack">Tech Stack</h3>
+<ul>
+<li><strong>Programming language:</strong> Golang 1.19</li>
+<li><strong>Persistence:</strong> Sqlite</li>
+<li><strong>Production:</strong> Digital Ocean, Droplet (Ubuntu VPS)</li>
+<li><strong>Api testing:</strong> Postman</li>
+<li><strong>Source control:</strong> Git</li>
+<li><strong>Dashboard:</strong> Grafana</li>
+<li><strong>Reverse Proxy:</strong> <a href="https://caddyserver.com/">Caddy</a></li>
+<li><strong>API Gateway and TLS Termination</strong> <a href="https://caddyserver.com/">Caddy</a></li>
+<li><strong>Continuous deployment strategy:</strong> <a href="https://github.com/DanielCosme/curious-ape/blob/main/Makefile">Makefile</a></li>
+<li><strong>Immutable deployment strategy:</strong> <a href="https://github.com/DanielCosme/curious-ape/tree/main/production/setup">Shell Script</a></li>
+<li><strong>Schema Migration strategy:</strong> <a href="https://github.com/golang-migrate/migrate">Migrate</a></li>
+<li><strong>Development environment:</strong> Linux</li>
+<li><strong>Editor:</strong> Jetbrains: Goland</li>
+<li><strong>Shell:</strong> Fish</li>
+</ul>
+<h2 id="roadmap">Roadmap</h2>
+<ul>
+<li>
+<p><strong>CI strategy</strong></p>
+<ul>
+<li>Unit tests to prevent regression</li>
+<li>Integration tests</li>
+<li>End to end tests</li>
+</ul>
+</li>
+<li>
+<p><strong>Automated data collection for all my services</strong></p>
+<p>Some popular services with public API’s:</p>
+<ul>
+<li>Google API’s (Google health, timeline/maps, email, youtube, calendar)</li>
+<li>Goodreads (Books)</li>
+<li>Waka Time (Programming)</li>
+<li>Rescue Time (Productivity)</li>
+<li>Github (Programming)</li>
+<li>My Fitness pal, Fitbit, Strava (Health &amp; Fitness)</li>
+<li>Facebook, Twitter, Instagram (social)</li>
+<li>Swarm (Location)</li>
+<li>Toggl (Productivity)</li>
+<li>Etc…</li>
+</ul>
+</li>
+<li>
+<p><strong>Analytics algorithm</strong></p>
+<ul>
+<li>Correlations</li>
+<li>Averages</li>
+<li>Trends</li>
+</ul>
+</li>
+<li>
+<p><strong>Proper clients</strong></p>
+<ul>
+<li>Web</li>
+<li>Mobile</li>
+<li>More robust CLI</li>
+</ul>
+</li>
+</ul>
+
+    </div>
+  </div>
+  </div>
+</section>
+
+
+
+    </div>
+<footer class="footer">
+  <div class="uk-container">
+
+
+    <div class="uk-grid-small uk-child-width-1-4@m uk-text-center uk-flex-center uk-margin-medium-bottom" uk-grid>
+      <div class="uk-margin-small-bottom">
+        <h5 class="uk-margin-small-bottom">Email</h5>
+        <a href="mailto:cosmedaniel8@gmail.com">cosmedaniel8@gmail.com</a>
+
+      </div>
+      </div>
+
+    </div>
+
+  <div class="footer-copyright uk-text-center" style="padding-bottom: 1rem">
+    <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="height: 1.2em;
+  width: 1.2em;" alt="CC-BY">
+    2021
+    Daniel Cosme<br> 
+    <img loading="lazy" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="height: 1.2em;
+  width: 1.2em;" alt="Creative Commons">
+    Made with <a href="https://gohugo.io">Hugo</a> and the <a href="https://github.com/samrobbins85/hugo-developer-portfolio">Developer </a> theme
+
+  </div>
+</footer>
+
+
+<!-- JS Plugins -->
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"></script>
+
+</body>
+</html>

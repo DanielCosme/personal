@@ -1,6 +1,0 @@
-#!/bin/sh
-
-rm -r ./public
-hugo --destination ./public
-ssh daniel@danicos.me "mkdir homepage"
-rsync -aP -e "ssh -i /home/daniel/.ssh/id_rsa" --delete ./public/ daniel@danicos.me:~/homepage
