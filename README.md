@@ -1,1 +1,1 @@
-Repository for my (Personal web page) [https://danicos.me]
+Repository for my [Personal web page](https://danicos.me)
